@@ -66,7 +66,7 @@ class RankingSubstate extends MusicBeatSubstate
 		press.updateHitbox();
 		add(press);
 
-		var hint:FlxText = new FlxText(20, 15, 0, "You passed. Try getting under 10 misses for SDCB", 32);
+		var hint:FlxText = new FlxText(20, 15, 0, "you barely made it -_- if you'd missed under 10 times you'd get a better ranking", 32);
 		hint.scrollFactor.set();
 		hint.setFormat(Paths.font("vcr.ttf"), 32);
 		hint.setBorderStyle(OUTLINE, 0xFF000000, 5, 1);
