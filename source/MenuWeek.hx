@@ -195,7 +195,7 @@ class MenuWeek extends MusicBeatState
 
 		trace("Line 150");
 
-		txtTracklist = new FlxText(FlxG.width * 0.05, 200, 0, "INCLUDES FAMOUS\n TRACKS LIKE:\n", 32);
+		txtTracklist = new FlxText(FlxG.width * 0.05, 200, 0, "THE BANGERS:\n", 32);
 		txtTracklist.alignment = CENTER;
 		txtTracklist.font = scoreText.font;
 		txtTracklist.setBorderStyle(OUTLINE, 0xFF000000, 5, 1);
