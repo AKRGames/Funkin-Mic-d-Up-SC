@@ -2,7 +2,7 @@
 	<a href="https://gamebanana.com/gamefiles/15309" target="_blank"><img src="/art/FNF Logo.png" alt="Logo" width="658.5px" height="487.5px"></a>
 </p>
 
-### This is the repository for Friday Night Funkin: Mic'd Up, previously named FNF: EX Replayability, a non-profit modification of Friday Night Funkin'.
+### This is the repository for Friday Night Funkin: The Stoopid Mod, a funny mod using Friday Night Funkin: Mic'd Up, previously named FNF: EX Replayability, an engine for Friday Night Funkin'.
 
 Support the original Newgrounds Build [here](https://www.newgrounds.com/portal/view/770371)!
 
@@ -11,6 +11,8 @@ Play the original build on the [Itch.io page](https://ninja-muffin24.itch.io/fun
 Play the Ludum Dare prototype of the original game [here](https://ninja-muffin24.itch.io/friday-night-funkin)!
 
 Go support the original repository for the game [here](https://github.com/ninjamuffin99/Funkin)!
+
+Go support the original repostiory for Mic'd Up [here](https://github.com/Verwex/Funkin-Mic-d-Up-SC)!
 
 ## Credits / Shoutouts
 <!--me lol-->
@@ -61,9 +63,9 @@ Go support the original repository for the game [here](https://github.com/ninjam
 	<a href="https://ninja-muffin24.itch.io/funkin"><img src="/art/preloaderArt.png" width"658.5px" height="369.75px"></a>
 </p>
 
-**This mod was made with love to Friday Night Funkin' and its community. Extra love to the team behind it. 💖**
+**Mic'd Up was made with love to Friday Night Funkin' and its community. Extra love to the team behind it. 💖**
 
-## What can I do with compiling the mod? Why should I compile the mod instead of downloading it from [the GamaBanana page of the mod](https://gamebanana.com/gamefiles/15309)?
+## What can I do with compiling the mod? Why should I compile the mod instead of downloading it from [the GamaBanana page of the mod](temporary link)?
 
 Compiling the mod gives access to the `/source` folder, allowing you to change the code of the mod. You can add a lot of cool things with the open-source code!
 
@@ -128,7 +130,7 @@ You should be good from there! Now, onto compiling!
 
 ## HTML Building:
 
-HTML Compiling currently does not work as Mic'd Up! currently requires desktop-only libraries to function properly. The HTML version of this mod will be on Kade Engine.p
+HTML Compiling currently does not work as Mic'd Up! currently requires desktop-only libraries to function properly. The HTML version of this mod will be on Kade Engine.
 
 ## Desktop Building:
 
