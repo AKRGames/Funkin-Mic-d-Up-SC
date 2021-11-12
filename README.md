@@ -65,7 +65,7 @@ Go support the original repostiory for Mic'd Up [here](https://github.com/Verwex
 
 **Mic'd Up was made with love to Friday Night Funkin' and its community. Extra love to the team behind it. 💖**
 
-## What can I do with compiling the mod? Why should I compile the mod instead of downloading it from [the GamaBanana page of the mod](temporary link)?
+## What can I do with compiling the mod? Why should I compile the mod instead of downloading it from [the GamaBanana page of the mod](https://youtu.be/dQw4w9WgXcQ)?
 
 Compiling the mod gives access to the `/source` folder, allowing you to change the code of the mod. You can add a lot of cool things with the open-source code!
 
