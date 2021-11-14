@@ -38,11 +38,11 @@ Go support the original repostiory for Mic'd Up [here](https://github.com/Verwex
 	</tr>
 </table>
 
-<h2>Mod Creators:</h2>
+<h2>Engine Creators:</h2>
 
 <table style="span:90%">
 	<tr>
-		<th style=”text-align:left”><h3>⚙️ Mod Creator:</h3></th>
+		<th style=”text-align:left”><h3>⚙️ Engine Creator:</h3></th>
 		<th style="text-align:right" colspan="2"><h3>🖥 Additional Programmers:</h3></th>
 	</tr>
 	<tr>
@@ -53,11 +53,22 @@ Go support the original repostiory for Mic'd Up [here](https://github.com/Verwex
 	<td>
 		<a href='https://twitter.com/kadedeveloper'><b>KadeDev</b></a> and <a href='https://steamcommunity.com/profiles/76561198353865795'><b>Ash237</b><br>
 		<img src="/art/Kade.png" alt="KadeDeveloper" width="175" height="175"></a>
-		<img src="/art/Ash.png" alt="Ash237 (temporary link until I find his twitter account)" width="175" height="175"></a>
+		<img src="/art/Ash.png" alt="Ash237 (temporary link until Verwex finds his twitter account)" width="175" height="175"></a>
 	</td>
 	</tr>
 </table>
-</table>
+
+<h2>Mod Creator:</h2>
+
+<table style="span:90%">
+	<tr>
+		<th style=”text-align:left”><h3>me</h3></th>
+        </tr>
+        <td>
+		<a href='https://twitter.com/AKRGames_93110'><b>AKRGames</b><br>
+		<img src="/art/AKR.png" alt="AKR" width="175" height="175"></a>
+	</td>
+
 
 <p align="center">
 	<a href="https://ninja-muffin24.itch.io/funkin"><img src="/art/preloaderArt.png" width"658.5px" height="369.75px"></a>
