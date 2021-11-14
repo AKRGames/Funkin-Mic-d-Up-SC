@@ -66,9 +66,10 @@ Go support the original repostiory for Mic'd Up [here](https://github.com/Verwex
         </tr>
         <td>
 		<a href='https://twitter.com/AKRGames_93110'><b>AKRGames</b><br>
-		<img src="/art/AKR.png" alt="AKR" width="175" height="175"></a>
+		<img src="/art/download.png" alt="AKR" width="175" height="175"></a>
 	</td>
-
+        </tr>
+</table>
 
 <p align="center">
 	<a href="https://ninja-muffin24.itch.io/funkin"><img src="/art/preloaderArt.png" width"658.5px" height="369.75px"></a>
