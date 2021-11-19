@@ -53,7 +53,7 @@ class Substate_PresetSaveOK extends MusicBeatSubstate
         blackBarThingie.scrollFactor.set();
         blackBarThingie.scale.y = 750;
 
-        resultText = new FlxText(FlxG.width * 0.7, 5, 1000, "Is this okay?", 32);
+        resultText = new FlxText(FlxG.width * 0.7, 5, 1000, "are you sure you want to do this?", 32);
 		resultText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, RIGHT);
 		resultText.alignment = CENTER;
 		resultText.setBorderStyle(OUTLINE, 0xFF000000, 5, 1);
@@ -78,7 +78,7 @@ class Substate_PresetSaveOK extends MusicBeatSubstate
         {
             #if desktop
             canOK = false;
-            resultText.text = "Please refrain from using *, ?, |, slashes, arrow parenthesis, : and double quotes as you can't name filenames like that.";
+            resultText.text = "no stop what are you doing don't use *, ?, |, slashes, arrow parenthesis, : and double quotes cuz it doesn't make sense!!!";
             #end  
         }
 
@@ -87,11 +87,11 @@ class Substate_PresetSaveOK extends MusicBeatSubstate
             case 'con'|'prn'|'aux'|'nul'|'com1'|'com2'|'com3'|'com4'|'com5'|'com6'|'com7'|'com8'|'com9'|'lpt1'|'lpt2'|'lpt3'|'lpt4'|'lpt5'|'lpt6'|'lpt7'|'lpt8'|'lpt9': //what a backdoor
                 #if desktop
                 canOK = false;
-                resultText.text = "It is illegal to make a filename like that based on a device's name. Try thinking of something else.";
+                resultText.text = "QUICK THE FBI ARE COMING RENAME IT QUICKLY BY PRESSING BACKSPACE AÀAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAƏÆAAAAAA";
                 #end
             case 'current':
                 canOK = false;
-                resultText.text = "Don't replace what saves on your way. It'll autosave itself.";
+                resultText.text = "don't replace what saves on your way. it'll autosave itself.";
             default:
         }
 
