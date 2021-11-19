@@ -54,7 +54,7 @@ class Substate_PresetSave extends MusicBeatSubstate
         blackBarThingie.scrollFactor.set();
         blackBarThingie.scale.y = 750;
 
-        chooseName = new FlxText(FlxG.width * 0.7, 5, 0, "Type in your preset name. Once you're done, press enter\nto proceed, or escape to leave.", 32);
+        chooseName = new FlxText(FlxG.width * 0.7, 5, 0, "choose what would you'd like to name it. once you're done, press enter\nto proceed, or escape to leave.", 32);
 		chooseName.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, RIGHT);
 		chooseName.alignment = CENTER;
 		chooseName.setBorderStyle(OUTLINE, 0xFF000000, 5, 1);
