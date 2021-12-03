@@ -186,7 +186,7 @@ Desktop building can be a bit tedious. Each different version requires a differe
 
 # All done!
 You should have been able to compile the whole mod now! What can you do now? Well, you can mod to your heart's desire! Since this mod is open-source, the creator loves seeing what other talented artists and programmers can make!
-And if you want, you can make improvements to this project by making a pull request or forking this repository. I could implement it to the base mod!
+And if you want, you can make improvements to this project by making a pull request or forking this repository. I could implement your contributions to the base mod!
 Special thanks to the amazing group of dedicated people that are making the original game amazing, and the modding team for making this engine possible!<!--And the person who fixed this README.md-->
 
 <p align="center">
