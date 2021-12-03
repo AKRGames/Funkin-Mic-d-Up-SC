@@ -179,22 +179,23 @@ class RankingSubstate extends MusicBeatSubstate
 			// WIFE TIME :)))) (based on Wife3)
 	
 			var wifeConditions:Array<Bool> = [
-				PlayState.accuracy >= 99.9935, // P
-				PlayState.accuracy >= 99.980, // X
-				PlayState.accuracy >= 99.950, // X-
-				PlayState.accuracy >= 99.90, // SS+
-				PlayState.accuracy >= 99.80, // SS
-				PlayState.accuracy >= 99.70, // SS-
-				PlayState.accuracy >= 99.50, // S+
-				PlayState.accuracy >= 99, // S
-				PlayState.accuracy >= 96.50, // S-
-				PlayState.accuracy >= 93, // A+
-				PlayState.accuracy >= 90, // A
-				PlayState.accuracy >= 85, // A-
-				PlayState.accuracy >= 80, // B
-				PlayState.accuracy >= 70, // C
-				PlayState.accuracy >= 60, // D
-				PlayState.accuracy < 60 // E
+				PlayState.accuracy >= 99.9935, // PERFECT!!!!
+				PlayState.accuracy >= 99.980, // Xtreme!!!
+				PlayState.accuracy >= 99.950, // Xtreme-!!!
+				PlayState.accuracy >= 99.90, // Super Superb+!!
+				PlayState.accuracy >= 99.80, // Super Superb!!
+				PlayState.accuracy >= 99.70, // Super Superb-!!
+				PlayState.accuracy >= 99.50, // Superb+!
+				PlayState.accuracy >= 99, // Superb!
+				PlayState.accuracy >= 96.50, // Superb-!
+				PlayState.accuracy >= 93, // Amazing+!
+				PlayState.accuracy >= 90, // Amazing!
+				PlayState.accuracy >= 85, // Amazing-!
+				PlayState.accuracy >= 80, // Brilliant!
+				PlayState.accuracy >= 70, // Cool.
+				PlayState.accuracy >= 60, // Disappointing.
+				PlayState.accuracy >= 50, // Embarrassment...
+                                PlayState.accuracy < 50, // Failure...
 			];
 	
 			for(i in 0...wifeConditions.length)
@@ -206,37 +207,39 @@ class RankingSubstate extends MusicBeatSubstate
 					switch(i)
 					{
 						case 0:
-							ranking = "P";
+							ranking = "PERFECT!!!!";
 						case 1:
-							ranking = "X";
+							ranking = "Xtreme!!!";
 						case 2:
-							ranking = "X-";
+							ranking = "Xtreme-!!!";
 						case 3:
-							ranking = "SS+";
+							ranking = "Super Superb+!!";
 						case 4:
-							ranking = "SS";
+							ranking = "Super Superb!!";
 						case 5:
-							ranking = "SS-";
+							ranking = "Super Superb-!!";
 						case 6:
-							ranking = "S+";
+							ranking = "Superb+!";
 						case 7:
-							ranking = "S";
+							ranking = "Superb!";
 						case 8:
-							ranking = "S-";
+							ranking = "Superb-!";
 						case 9:
-							ranking = "A+";
+							ranking = "Amazing+!";
 						case 10:
-							ranking = "A";
+							ranking = "Amazing!";
 						case 11:
-							ranking = "A-";
+							ranking = "Amazing-!";
 						case 12:
-							ranking = "B";
+							ranking = "Brilliant!";
 						case 13:
-							ranking = "C";
+							ranking = "Cool.";
 						case 14:
-							ranking = "D";
+							ranking = "Disappointing.";
 						case 15:
-							ranking = "E";
+							ranking = "Embarrassment...";
+                                                case 16:
+                                                        ranking = "Failure...";
 					}
 					break;
 				}
