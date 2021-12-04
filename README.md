@@ -95,7 +95,7 @@ If you just want to download and play the mod normally, you can click [here to g
 
 First you need to install Haxe and HaxeFlixel.
 1. [Install Haxe 4.1.5](https://haxe.org/download/version/4.1.5/) (Download 4.1.5 instead of 4.2.0 because 4.2.0 is broken and is not working with gits properly...)
-2. [Install HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel/) after downloading Haxe
+2. [Install HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel/) after downloading Haxe.
 
 Other installations you will need are the additional libraries. A fully updated list will be in `Project.xml` in the project root. Currently, these are all the things you need to install:
 ```
@@ -105,7 +105,7 @@ flixel-ui
 hscript
 newgrounds
 ```
-So, for each of those type `haxelib install [library]` so shit like `haxelib install newgrounds`.
+So, for each of those type `haxelib install [library]` so for example: `haxelib install newgrounds`.
 
 You will also need to install a couple things that involve Gits. To do this, you need to do a few things first.
 1. Download [git-scm](https://git-scm.com/downloads). Works for Windows, Mac, and Linux, just select your build.
@@ -143,7 +143,7 @@ Desktop building can be a bit tedious. Each different version requires a differe
 3. Type `lime run mac -debug` to run the Mac version of the mod from the command prompt/terminal. (You can also run the mod from `funkin/export/debug/mac/bin`)
 
 ### Windows Building:
-**THIS METHOD REQUIRES AROUND 22 GIGABYTES OF STORAGE.**
+**THIS METHOD REQUIRES AROUND 22 GIGABYTES OF STORAGE. LITERALLY! SO SAVE UP YOUR STORAGESPACE!!**
 1. Install [Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/).
 2. Open the installer and go to the individual workloads tab and download the following:
 ```
