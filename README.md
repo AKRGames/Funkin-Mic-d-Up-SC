@@ -114,25 +114,7 @@ You will also need to install a couple things that involve Gits. To do this, you
 4. Run `haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc` to install Discord RPC.
 5. Optional: - Run `haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons` to update Flixel-Addons. This fixes the transition bug for zoomed out stage cameras.
 
-You should have everything ready for compiling the mod! Follow the guide below to continue!
-
-# Adding `APIStuff.hx` into `/source`
-
-The API keys of the mod were gitignored so no one could post fake high scores onto the leaderboards in Newgrounds. Unfortunately, because this mod requires the `API` and `EncKey` values to compile, you will need to add a file called `APIStuff.hx` into `/source`.
-
-1. Create a new text file called `APIStuff.hx` inside of the `/source` folder.
-2. Copy the following text:
-```haxe
-package;
-class APIStuff
-{
-	public static var API:String = "";
-	public static var EncKey:String = "";
-}
-```
-3. Paste the text into the APIStuff.hx file and save the file.
-
-You should be good from there! Now, onto compiling!
+You should have everything ready for compiling the mod! Now, onto compiling!
 
 # Compiling the Mod
 
