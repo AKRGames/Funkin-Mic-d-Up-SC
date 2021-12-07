@@ -130,13 +130,13 @@ HTML Compiling currently does not work as Mic'd Up! currently requires desktop-o
 
 Desktop building can be a bit tedious. Each different version requires a different setup.
 
-### Linux Building:
+### Linux Building (UNTESTED):
 
 1. Open your machine's command prompt/terminal and navigate to your root folder of the mod. [An easy guide can be found here!](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 2. Type `lime build linux -debug` to build the Linux version of the mod.
 3. Type `lime run linux -debug` to run the Linux version of the mod from the command prompt/terminal. (You can also run the mod from `funkin/export/debug/linux/bin`)
 
-### Mac Building:
+### Mac Building (UNTESTED):
 
 1. Open your machine's command prompt/terminal and navigate to your root folder of the mod. [An easy guide can be found here!](https://ninjamuffin99.newgrounds.com/news/post/1090480)
 2. Type `lime build mac -debug` to build the Mac version of the mod.
