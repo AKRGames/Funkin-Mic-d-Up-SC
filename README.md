@@ -124,7 +124,7 @@ You should have everything ready for compiling the mod! Now, onto compiling!
 
 ## HTML Building:
 
-HTML Compiling currently does not work as Mic'd Up! currently requires desktop-only libraries to function properly. The HTML version of this mod will be on Kade Engine.
+HTML Compiling currently does not work as Mic'd Up currently requires desktop-only libraries to function properly. The HTML version of this mod will be on Kade Engine.
 
 ## Desktop Building:
 
