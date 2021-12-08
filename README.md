@@ -75,7 +75,7 @@ Go support the original repostiory for Mic'd Up [here](https://github.com/Verwex
 	<a href="https://ninja-muffin24.itch.io/funkin"><img src="/art/preloaderArt.png" width"658.5px" height="369.75px"></a>
 </p>
 
-**Mic'd Up was made with love to Friday Night Funkin' and its community. Extra love to the team behind it. 💖**
+**This mod and Mic'd Up was made with love to Friday Night Funkin' and its community. Extra love to all the mods before this one. 💖**
 
 ## What can I do with compiling the mod? Why should I compile the mod instead of downloading it from [the GamaBanana page of the mod](https://youtu.be/dQw4w9WgXcQ)?
 
