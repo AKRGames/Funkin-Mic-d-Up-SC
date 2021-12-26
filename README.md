@@ -51,9 +51,9 @@ Go support the original repostiory for Mic'd Up [here](https://github.com/Verwex
 		<img src="/art/Verwex.png" alt="Verwex" width="175" height="175"></a>
 	</td>
 	<td>
-		<a href='https://twitter.com/kadedeveloper'><b>KadeDev</b></a> and <a href='https://steamcommunity.com/profiles/76561198353865795'><b>Ash237</b><br>
+		<a href='https://twitter.com/kadedeveloper'><b>KadeDev</b></a> and <a href='https://twitter.com/ash__i_guess_'><b>Ash237</b><br>
 		<img src="/art/Kade.png" alt="KadeDeveloper" width="175" height="175"></a>
-		<img src="/art/Ash.png" alt="Ash237 (temporary link until Verwex finds his twitter account)" width="175" height="175"></a>
+		<img src="/art/Ash.png" alt="Ash237" width="175" height="175"></a>
 	</td>
 	</tr>
 </table>
